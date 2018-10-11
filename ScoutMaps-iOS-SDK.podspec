@@ -1,6 +1,9 @@
 Pod::Spec.new do |s|
   s.name = 'ScoutMaps-iOS-SDK'
   s.version = '3.2.0'
+  s.summary = 'Scout Maps & Navigation SDK -  an OpenStreetMap-based MapKit alternative'
+  s.homepage = 'http://www.scout.me/developer/'
+  s.license = { :type => 'commercial', :text => 'see http://www.skobbler.com/legal#termsSDK'}
   s.authors = { 'Telenav Inc.' => 'http://www.telenav.com/about/' }
   s.source = { :http => 'http://developer.skobbler.com/cocoapods/ScoutMaps-iOS-SDK_3.0.3.zip'}
   s.platform = :ios, '8.0'
