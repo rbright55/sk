@@ -3,7 +3,6 @@ Pod::Spec.new do |s|
   s.version = '3.2.0'
   s.summary = 'Scout Maps & Navigation SDK -  an OpenStreetMap-based MapKit alternative'
   s.description = 'Build immersive location-based products with numerous features like Search, Routing, Offline Maps, Custom Map Styles, Turn-by-Turn Navigation based on the crowd-sourced OpenStreetMap (OSM)'
-
   s.homepage = 'http://www.scout.me/developer/'
   s.license = { :type => 'Commercial', :text => 'see http://www.skobbler.com/legal#termsSDK'}
   s.authors = { 'Telenav Inc.' => 'http://www.telenav.com/about/' }
