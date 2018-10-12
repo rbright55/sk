@@ -5,12 +5,12 @@ Pod::Spec.new do |s|
   s.homepage = 'http://www.scout.me/developer/'
   s.license = { :type => 'commercial', :text => 'see http://www.skobbler.com/legal#termsSDK'}
   s.authors = { 'Telenav Inc.' => 'http://www.telenav.com/about/' }
-  s.source = { :http => 'https://github.com/rbright55/sk/tree/master/ScoutMaps-iOS-SDK_3.2.0'}
+  s.source = { :git => 'https://github.com/rbright55/sk.git'}
   s.platform = :ios, '8.0'
   s.requires_arc = true
-  s.preserve_paths = 'ScoutMaps-iOS-SDK_3.2.0/SKMaps.framework'
-  s.source_files = 'ScoutMaps-iOS-SDK_3.2.0/SKMaps.framework/Headers/*.h'
-  s.resources = ['ScoutMaps-iOS-SDK_3.2.0/SKMaps.bundle', 'ScoutMaps-iOS-SDK_3.2.0/SKAdvisorResources.bundle']
+  s.preserve_paths = 'SKMaps.framework'
+  s.source_files = 'SKMaps.framework/Headers/*.h'
+  s.resources = ['SKMaps.bundle', 'SKAdvisorResources.bundle']
   s.header_dir = 'ScoutMaps-iOS'
   s.frameworks = [
     'SKMaps',
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
     'CoreGraphics',
     'CoreData'
   ]
-  s.vendored_frameworks = 'ScoutMaps-iOS-SDK_3.2.0/SKMaps.framework'
+  s.vendored_frameworks = 'SKMaps.framework'
   s.libraries = [
     'z',
     'c++'
