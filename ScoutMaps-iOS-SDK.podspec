@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage = 'http://www.scout.me/developer/'
   s.license = { :type => 'commercial', :text => 'see http://www.skobbler.com/legal#termsSDK'}
   s.authors = { 'Telenav Inc.' => 'http://www.telenav.com/about/' }
-  s.source = { :path => 'ScoutMaps-iOS-SDK_3.2.0'}
+  s.source = { :http => 'https://github.com/rbright55/sk/tree/master/ScoutMaps-iOS-SDK_3.2.0'}
   s.platform = :ios, '8.0'
   s.requires_arc = true
   s.preserve_paths = 'ScoutMaps-iOS-SDK_3.2.0/SKMaps.framework'
