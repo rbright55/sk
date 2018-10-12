@@ -1,0 +1,14 @@
+20180605 9874 https://tors.skobbler.net RSngx 27_0 NBngx 27_0 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20180416 9874 https://tors.skobbler.net RSngx 26_0 NBngx 26_0 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20180129 9874 https://tors.skobbler.net RSngx 25_0 NBngx 25_0 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20170828 9874 https://tors.skobbler.net RSngx 24_0 NBngx 24_0 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20170626 9874 https://tors.skobbler.net RSngx 23_0 NBngx 23_0 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20170306 9874 https://tors.skobbler.net RSngx 22_0 NBngx 22_0 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20161212 9874 https://tors.skobbler.net RSngx 21_0 NBngx 21_0 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20160426 9874 https://tors.skobbler.net RSngx 20_5 NBngx 20_5 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20150413 9874 https://tors.skobbler.net RSngx 18_0 NBngx 18_0 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20141230 9874 https://tors.skobbler.net RSngx 17_1 NBngx 17_1 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20140910 9874 https://tors.skobbler.net RSngx 16_0 NBngx 16_0 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20140807 9874 https://tors.skobbler.net RSngx 15_1 NBngx 15_1 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20140604 9874 https://tors.skobbler.net RSngx 14 NBngx 14 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
+20140320 9874 https://tors.skobbler.net RSngx 13_1 NBngx 13_1 https://traffic.skobbler.net/Traffic/2.0/NgTraffic/ https://traffic.skobbler.net/Traffic/2.0/NgIncidents/ 20170515 https://tors.skobbler.net
